@@ -3,3 +3,4 @@
 *.tfstate.backup
 terraform.tfvars
 tfplan
+.DS_Store
