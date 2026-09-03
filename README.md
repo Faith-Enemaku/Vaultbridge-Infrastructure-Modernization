@@ -97,8 +97,6 @@ The infra/ directory contains the main AWS infrastructure configuration.
 | backend.tf         | Configures Terraform remote state                       |
 | outputs.tf         | Exposes important infrastructure outputs                |
 
----
-
 ## Security Controls
 
 Security was incorporated into the infrastructure design rather than treated as an afterthought.
